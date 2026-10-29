@@ -1,0 +1,27 @@
+MECHANIK – LICENCJA (gra darmowa, kod zamknięty)
+
+Copyright (c) 2026 Michał Brajer. Wszelkie prawa zastrzeżone.
+
+1. Grę Mechanik możesz pobrać, zainstalować i grać w nią za darmo, do użytku prywatnego.
+2. Możesz dzielić się linkiem do oficjalnej strony gry. Kopię paczki możesz przekazać dalej tylko w całości,
+   bez zmian i za darmo.
+3. Nie wolno:
+   - zmieniać gry ani jej plików,
+   - dekompilować, deasemblować ani w inny sposób odtwarzać kodu źródłowego gry,
+   - sprzedawać gry ani używać jej w celach zarobkowych,
+   - podpisywać jej jako własnej.
+4. Gra jest dostarczana „tak jak jest”, bez żadnej gwarancji. Autor nie odpowiada za szkody wynikające z jej używania.
+
+Składniki od innych autorów mają własne licencje, opisane w pliku AUTORZY_DZWIEKOW.txt:
+- nagrania dźwiękowe (głównie CC0 z Freesound i OpenGameArt, jedno nagranie na licencji Attribution 3.0),
+- biblioteka nvdaControllerClient.dll (NV Access, GNU LGPL 2.1).
+Postanowienia punktu 3 nie ograniczają praw, które dają te licencje do tych składników.
+
+---
+
+MECHANIK – LICENSE (freeware, closed source)
+
+Copyright (c) 2026 Michał Brajer. All rights reserved.
+You may download and play Mechanik free of charge for private use and share the unmodified package for free.
+You may not modify the game, decompile or reverse engineer it, sell it, or present it as your own.
+Provided "as is", without warranty. Third-party components keep their own licenses (see AUTORZY_DZWIEKOW.txt).

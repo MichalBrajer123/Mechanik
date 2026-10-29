@@ -1,0 +1,195 @@
+THIRD PARTY AUDIO CREDITS
+=========================
+
+Footstep source used for Mechanik Remake movement:
+Title: Walking Away
+Author: Mike Koenig
+Source: SoundBible.com, https://soundbible.com/874-Walking-Away.html
+Downloaded WAV endpoint: https://soundbible.com/grab.php?id=874&type=wav
+License shown on source page: Attribution 3.0
+Use in project: trimmed/processed into footstep_shop_concrete_01.wav through footstep_shop_concrete_10.wav.
+
+Existing original game audio remains under its original project assumptions.
+
+New workshop traffic audio (2026-09-28):
+- customer_car_door.wav: "Car_door_SFX", looneybits, CC0.
+  https://opengameart.org/content/cardoorsfx
+- generic_car_startengine.wav and generic_car_startengine_1.wav: "Car engine start 01", looneybits, CC0. These files were already present in the Unity project and are now used for customer arrivals.
+  https://opengameart.org/content/car-engine-start-01
+- workshop_phone_ring.mp3: high-quality preview of "Phone Ringing Sound.wav", fspera, CC0.
+  https://freesound.org/people/fspera/sounds/528111/
+  Original WAV requires a Freesound account; this MP3 preview is used in the game.
+- toolbox_rummage.wav: excerpt of the high-quality preview of "tools rummaging through tools ext metal debris.wav", kyles, CC0.
+  https://freesound.org/people/kyles/sounds/450873/
+  Converted to mono WAV and normalized for the tool chest interaction.
+- footstep_shop_concrete_01.wav through footstep_shop_concrete_10.wav: the previously credited Walking Away recording, now amplified and peak-limited so footsteps remain audible during movement.
+- ambient_workshop.wav: loop made from the high-quality preview of "Car/Auto Mechanic Shop", producerdan, CC0.
+  https://freesound.org/people/producerdan/sounds/266626/
+  A 12-second section was crossfaded at the loop boundary and set to a quiet background level.
+- menu_move_cc0.wav, menu_accept_cc0.wav, menu_cancel_cc0.wav: converted from
+  "Menu sounds" by fvcalderan, CC0, respectively menu_change.ogg,
+  menu_accept.ogg and menu_cancel.ogg. Levels reduced by 4 dB.
+  https://opengameart.org/content/menu-sounds
+
+Sounds added 2026-10-22 (all CC0, converted to mono WAV, loudness normalized):
+- cc0_drawer_open.wav, cc0_drawer_close.wav, cc0_coins_1.wav, cc0_paper_1.wav, cc0_counter_bell.wav:
+  "Various Sound Effects" by laleksic (drawer_open, drawer_close, pickup_coins, turn_page, bell), CC0.
+  https://opengameart.org/content/various-sound-effects
+- cc0_coins_2.wav, cc0_coins_3.wav, cc0_paper_2.wav, cc0_paper_3.wav, cc0_receipt_1.wav, cc0_receipt_2.wav, cc0_note_1.wav, cc0_note_2.wav:
+  "RPG Audio" by Kenney (handleCoins, bookFlip, bookPlace), CC0.
+  https://kenney.nl/assets/rpg-audio
+- cc0_tool_pickup_1-3.wav, cc0_tool_rummaging.wav, cc0_parts_1.wav, cc0_parts_2.wav:
+  "68 Workshop Sounds" by bart (clink1, clink2, jingle2, tool rummaging, clink thud, metal drop 2), CC0.
+  https://opengameart.org/content/68-workshop-sounds
+- cc0_compressor_loop.wav: "100 CC0 SFX #2" by rubberduck (sfx100v2_loop_machine_02), CC0.
+  https://opengameart.org/content/100-cc0-sfx-2
+
+Workshop ambience added 2026-10-22 (all CC0, converted to mono WAV, loudness normalized):
+- amb_keys_*.wav: "100 CC0 metal and wood SFX" by rubberduck (keys_01, 02, 03, 05), CC0.
+  https://opengameart.org/content/100-cc0-metal-and-wood-sfx
+- amb_cloth_*.wav, amb_shuffle_*.wav: "RPG Audio" by Kenney (cloth1-4, footstep01/03/05/07), CC0.
+  https://kenney.nl/assets/rpg-audio
+- amb_helper_*.wav: "68 Workshop Sounds" by bart (ratchet1, ratchet2, metal tapping, clink3, quiet scrape, dull ping), CC0.
+  https://opengameart.org/content/68-workshop-sounds
+- amb_air_*.wav, amb_thunder_1.wav, amb_traffic_loop.wav: "100 CC0 SFX #2" by rubberduck (air_01-03, thunder_01, loop_highway), CC0.
+  https://opengameart.org/content/100-cc0-sfx-2
+
+Place signatures added 2026-10-22: place_*.wav are short trimmed and faded excerpts of sounds already listed above
+(counter bell, car door, diagnostic scanner, mechanical, tool pickup, parts, paper). Same licenses as their sources.
+
+Nagrania z Freesound (dodawane od 2026-10-27), wszystkie na licencji CC0 (domena publiczna).
+Każdy plik to przycięty, wyrównany głośnościowo fragment nagrania (skrypt Tools\Nagrania\obrob_nagrania.py).
+
+- coffee_grind.wav: https://freesound.org/s/503427/ autor tosha73, CC0.
+- coffee_pour.wav: https://freesound.org/s/432775/ autor Maajora, CC0.
+- office_coffee_idle.wav: https://freesound.org/s/521023/ autor Profispiesser, CC0.
+- office_computer_loop.wav: https://freesound.org/s/474803/ autor Kragnour, CC0.
+- office_chair.wav: https://freesound.org/s/371371/ autor Iamgiorgio, CC0.
+- office_cup.wav: https://freesound.org/s/218333/ autor SpliceSound, CC0.
+- office_keyboard.wav: https://freesound.org/s/718673/ autor Dannyvish, CC0.
+- office_dial.wav: https://freesound.org/s/432313/ autor 1tmsounds, CC0.
+- door_open.wav: https://freesound.org/s/361475/ autor kaszapatrik, CC0.
+- home_bed.wav: https://freesound.org/s/444389/ autor MootMcnoodles, CC0.
+- home_fridge_loop.wav: https://freesound.org/s/753296/ autor HECKFRICKER, CC0.
+- home_cupboard.wav: https://freesound.org/s/472787/ autor supersnd, CC0.
+- home_radio_click.wav: https://freesound.org/s/336887/ autor Skardale, CC0.
+- home_alarm.wav: https://freesound.org/s/709944/ autor Squidems, CC0.
+- home_kettle.wav: https://freesound.org/s/740168/ autor FOSSarts, CC0.
+- home_keys_lock.wav: https://freesound.org/s/615287/ autor nickrandomsounds, CC0.
+- street_walk.wav: https://freesound.org/s/205817/ autor Yuval, CC0.
+- tool_clink.wav: https://freesound.org/s/616628/ autor Loinnats, CC0.
+- car_chirp.wav: https://freesound.org/s/396448/ autor hz37, CC0.
+- marker_office.wav: https://freesound.org/s/511967/ autor se2001, CC0.
+- marker_reception.wav: https://freesound.org/s/463477/ autor vquera, CC0.
+- marker_yard.wav: https://freesound.org/s/670176/ autor freemaster2, CC0.
+- marker_lift.wav: https://freesound.org/s/870708/ autor CHallSmith, CC0.
+- marker_toolbench.wav: https://freesound.org/s/710081/ autor felix.blume, CC0.
+- marker_parts.wav: https://freesound.org/s/189988/ autor raygrote, CC0.
+- marker_pit.wav: https://freesound.org/s/442480/ autor BonnyOrbit, CC0.
+- marker_diagnostics.wav: https://freesound.org/s/738782/ autor Robert9157, CC0.
+- place_pit.wav: https://freesound.org/s/452421/ autor sagamusix, CC0.
+- drive_crank.wav: https://freesound.org/s/579213/ autor bowlingballout, CC0.
+- drive_engine_start.wav: https://freesound.org/s/444360/ autor cj_ascoli, CC0.
+- drive_engine_stop.wav: https://freesound.org/s/702514/ autor ainst, CC0.
+- drive_engine_loop.wav: https://freesound.org/s/848361/ autor andrewfordham, CC0.
+- drive_road_loop.wav: https://freesound.org/s/744443/ autor callmethefoo, CC0.
+- drive_wind_loop.wav: https://freesound.org/s/418384/ autor Mrthenoronha, CC0.
+- drive_brake_squeal.wav: https://freesound.org/s/574120/ autor Chilsville, CC0.
+- drive_tyre_squeal.wav: https://freesound.org/s/71736/ autor audible-edge, CC0.
+- drive_bump.wav: https://freesound.org/s/837875/ autor menfa, CC0.
+- drive_clunk.wav: https://freesound.org/s/391794/ autor Alexbuk, CC0.
+- drive_rattle.wav: https://freesound.org/s/697754/ autor SoundDesignForYou, CC0.
+- drive_indicator.wav: https://freesound.org/s/446322/ autor MPierluissi, CC0.
+- drive_chime.wav: https://freesound.org/s/218315/ autor SpliceSound, CC0.
+- drive_grind.wav: https://freesound.org/s/686118/ autor PattyWatty, CC0.
+- drive_horn.wav: https://freesound.org/s/371853/ autor Iamgiorgio, CC0.
+- drive_stall.wav: https://freesound.org/s/505820/ autor jedg, CC0.
+- drive_rumble.wav: https://freesound.org/s/62652/ autor bsumusictech, CC0.
+- drive_bearing_hum.wav: https://freesound.org/s/376517/ autor cribbler, CC0.
+- drive_cv_click.wav: https://freesound.org/s/161966/ autor donkpow, CC0.
+- drive_judder.wav: https://freesound.org/s/444913/ autor veronicalyn, CC0.
+- drive_click.wav: https://freesound.org/s/737284/ autor qubodup, CC0.
+- phone_pickup.wav: https://freesound.org/s/559475/ autor Nox_Sound, CC0.
+- update_installed.wav: https://freesound.org/s/541985/ autor Rob_Marion, CC0.
+- phone_dial.wav: https://freesound.org/s/857831/ autor ElevatorFan2020, CC0.
+- phone_ringback.wav: https://freesound.org/s/384853/ autor mthom2010, CC0.
+- phone_hangup.wav: https://freesound.org/s/467200/ autor ThunderQuads, CC0.
+- ambient_home.wav: https://freesound.org/s/637797/ autor kyles, CC0.
+- ambient_office.wav: https://freesound.org/s/450680/ autor kyles, CC0.
+- sleep_yawn.wav: https://freesound.org/s/125419/ autor jyoung20, CC0.
+- sleep_breath.wav: https://freesound.org/s/207116/ autor harleto, CC0.
+- sleep_blanket.wav: https://freesound.org/s/849093/ autor jaziel_.arroyo, CC0.
+- home_light_switch.wav: https://freesound.org/s/440499/ autor ChrisTutorials, CC0.
+- sleep_dawn.wav: https://freesound.org/s/563546/ autor ValentinPetiteau, CC0.
+- sleep_alarm_off.wav: https://freesound.org/s/348225/ autor tbrook, CC0.
+- access_boundary.wav: https://freesound.org/s/336495/ autor Faulkin, CC0.
+- access_interact_beacon.wav: https://freesound.org/s/736912/ autor jackosnb, CC0.
+- access_objective_beacon.wav: https://freesound.org/s/842203/ autor kurumik, CC0.
+- access_scan_pulse.wav: https://freesound.org/s/371178/ autor SamsterBirdies, CC0.
+- analysis.wav: https://freesound.org/s/250104/ autor phatcorns, CC0.
+- cc0_tool_pickup_2.wav: https://freesound.org/s/540275/ autor zepurple, CC0.
+- cc0_tool_pickup_3.wav: https://freesound.org/s/44618/ autor uiop, CC0.
+- diagnosis_fail.wav: https://freesound.org/s/445978/ autor Breviceps, CC0.
+- diagnosis_fee.wav: https://freesound.org/s/223341/ autor jalastram, CC0.
+- diagnosis_focus.wav: https://freesound.org/s/829014/ autor Mihacappy, CC0.
+- diagnosis_ok.wav: https://freesound.org/s/320181/ autor dland, CC0.
+- diagnosis_quick.wav: https://freesound.org/s/534104/ autor pbimal, CC0.
+- error.wav: https://freesound.org/s/581604/ autor SamsterBirdies, CC0.
+- lightclunk2.wav: https://freesound.org/s/835173/ autor Mihacappy, CC0.
+- sfx_abs.wav: https://freesound.org/s/495238/ autor CallFlan, CC0.
+- sfx_ac.wav: https://freesound.org/s/494918/ autor stib, CC0.
+- sfx_brakes.wav: https://freesound.org/s/551497/ autor AlaskaRobotics, CC0.
+- sfx_cooling.wav: https://freesound.org/s/594283/ autor Processaurus, CC0.
+- sfx_electrical.wav: https://freesound.org/s/266685/ autor Luminareth, CC0.
+- sfx_engine.wav: https://freesound.org/s/591528/ autor Rudmer_Rotteveel, CC0.
+- sfx_exhaust.wav: https://freesound.org/s/697758/ autor SoundDesignForYou, CC0.
+- sfx_fuel.wav: https://freesound.org/s/432775/ autor Maajora, CC0.
+- sfx_ignition.wav: https://freesound.org/s/341612/ autor PureAudioNinja, CC0.
+- sfx_steering.wav: https://freesound.org/s/461397/ autor 15F_Panska_SvobodaBoleslav, CC0.
+- sfx_suspension.wav: https://freesound.org/s/434335/ autor draftcraft, CC0.
+- sfx_transmission.wav: https://freesound.org/s/389705/ autor suspensiondigital, CC0.
+- tool_diag_click_1.wav: https://freesound.org/s/342200/ autor Christopherderp, CC0.
+- tool_diag_click_2.wav: https://freesound.org/s/687107/ autor aphom000, CC0.
+- tool_diag_ring_1.wav: https://freesound.org/s/843148/ autor Sadiquecat, CC0.
+- tool_diag_ring_2.wav: https://freesound.org/s/610396/ autor chungus43A, CC0.
+- tool_drill_1.wav: https://freesound.org/s/551505/ autor AlaskaRobotics, CC0.
+- tool_grind_1.wav: https://freesound.org/s/386235/ autor ldezem, CC0.
+- tool_grind_2.wav: https://freesound.org/s/386097/ autor ldezem, CC0.
+- tool_grind_3.wav: https://freesound.org/s/386097/ autor ldezem, CC0.
+- tool_impact_1.wav: https://freesound.org/s/386327/ autor ldezem, CC0.
+- tool_multimeter.wav: https://freesound.org/s/148694/ autor MeTwo99, CC0.
+- tool_ratchet_1.wav: https://freesound.org/s/551497/ autor AlaskaRobotics, CC0.
+- tool_ratchet_2.wav: https://freesound.org/s/495238/ autor CallFlan, CC0.
+- tool_scanner.wav: https://freesound.org/s/202530/ autor kalisemorrison, CC0.
+- tool_scrape.wav: https://freesound.org/s/422437/ autor BehanSean, CC0.
+- turn_body.wav: https://freesound.org/s/494797/ autor brandondelehoy, CC0.
+
+Dawne generatory (Tools\ZnacznikiStanowisk, Tools\DzwiekiJazdy, Tools\DzwiekiPomieszczen) zostały zastąpione tymi nagraniami.
+
+Dźwięki przeniesione z wersji w Pythonie (mechanik\docs\SOUNDS_SOURCES.md):
+- generic_car_startengine.wav, generic_car_startengine_1.wav
+  - Źródło: https://opengameart.org/content/car-engine-start-01
+  - Licencja: CC0
+- car1.wav
+  - Źródło: https://opengameart.org/content/car-sfx
+  - Licencja: CC0
+- squeakyclick1.wav, squeakyclick2.wav, lightclunk1.wav, rattle1.wav, clank1.wav, mechanical1.wav
+  - Źródło: https://opengameart.org/content/mechanical-sounds
+  - Licencja: CC0
+- door_opening.wav, door_closing.wav, save.wav, load.wav, upgrade.wav, day_end.wav, delivery_premium.wav, delivery_budget.wav, followup.wav, warranty.wav, delay.wav, review.wav, checklist.wav, goodwill.wav
+  - Źródło: https://opengameart.org/content/100-cc0-metal-and-wood-sfx
+  - Licencja: CC0
+  - Konwersja: OGG -> WAV (PCM)
+- ambient.wav
+  - Źródło: https://opengameart.org/content/100-cc0-sfx-2
+  - Licencja: CC0
+  - Konwersja: OGG -> WAV (PCM)
+- diagnosis.wav, test.wav, summary.wav
+  - Źródło: https://opengameart.org/content/metal-impact-sounds
+  - Licencja: CC0
+
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+Inne składniki (nie dźwięki):
+- nvdaControllerClient.dll: NVDA Controller Client, (c) NV Access Limited, licencja GNU LGPL 2.1.
+  https://github.com/nvaccess/nvda – biblioteka pozwala grze mówić bezpośrednio przez czytnik ekranu NVDA.
