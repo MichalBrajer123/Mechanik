@@ -2,13 +2,15 @@
 
 Symulator warsztatu samochodowego prowadzony dźwiękiem, dla osób niewidomych i słabowidzących. Gra na Windows, mówi przez NVDA albo głosem Windows, ma dźwięk przestrzenny i nawigację słuchem.
 
-*An audio game for blind and visually impaired players: run a small car repair workshop by ear. Windows, NVDA. Polish only for now; translations are planned.*
+*An audio game for blind and visually impaired players: run a small car repair workshop by ear. Windows, NVDA. **Available in Polish and English** – choose the language with the arrow keys when the game starts.*
 
 ## Pobierz
 
 **[Pobierz najnowszą wersję](https://github.com/MichalBrajer123/Mechanik/releases/latest)** – w wydaniu kliknij plik `.zip`, rozpakuj całą paczkę do jednego folderu i uruchom `Mechanik.exe`.
 
 Wymagania: Windows 10 albo 11 (64 bity). Zalecany czytnik ekranu NVDA i słuchawki.
+
+Języki: polski i angielski. Wybierasz je strzałkami zaraz po uruchomieniu gry („Select language”).
 
 To **wczesna wersja (alpha)**: gra jest grywalna, ale wiele rzeczy dopiero powstaje.
 
